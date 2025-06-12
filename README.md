@@ -1,4 +1,4 @@
-[Screenshot](https://i.postimg.cc/8kxLkZjQ/image.png)
+![Screenshot](https://i.postimg.cc/8kxLkZjQ/image.png)
 
 # 🚀 JavaScript30 — A collection of 30 Vanilla JS projects
 
