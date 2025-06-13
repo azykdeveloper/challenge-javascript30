@@ -4,6 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
+  <script type="text/javascript" src="https://www.cornify.com/js/cornify.js"></script>
+
 </head>
 <body>
   <script>
@@ -12,6 +14,12 @@
     window.addEventListener('keyup', (e) => {
       console.log(e.key);
       pressed.push(e.key)
+      pressed.splice(-secretCode.length - 1, pressed.length - secretCode.length)
+
+      if(pressed.join('').includes(secretCode)) {
+        console.log("DING DING!");
+        cornify_add()
+      }
       console.log(pressed);
     })
   </script>

@@ -39,6 +39,7 @@ This challenge helps to:
 | 09 | Dev tools dominations          | [Live](https://azykxyz.github.io/challenge-javascript30/09-dev-tools-dominations/) |
 | 10 | Hold shift and check checkbox  | [Live](https://azykxyz.github.io/challenge-javascript30/10-hold-shift-and-check-checkboxes/) |
 | 11 | Cutom video player             | [Live](https://azykxyz.github.io/challenge-javascript30/11-custom-video-player/) |
+| 12 | Key squence detection          | [Live](https://azykxyz.github.io/challenge-javascript30/12-key-sequence-detection/) |
 | ...| ...                            | ...    |
 | ...| ...                            | ...    |
 
