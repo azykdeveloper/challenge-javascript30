@@ -1,12 +1,30 @@
-# 🚀 JavaScript30 — 30 ta Vanilla JS loyihalar to‘plami
+![Screenshot](https://i.postimg.cc/8kxLkZjQ/image.png)
 
-Bu repozitoriyada [Wes Bos](https://javascript30.com/) tomonidan yaratilgan **JavaScript30** challenge'dagi loyihalar jamlangan. Har bir loyiha **Vanilla JavaScript** asosida yaratilgan — **kutubxona yoki frameworklarsiz**, faqat toza JS, HTML va CSS.
+# 🚀 JavaScript30 — A collection of 30 Vanilla JS projects
 
-📆 Har kuni bitta mini loyiha bajarish orqali **real amaliy ko‘nikmalar** orttirish mumkin.
+Minimalist implementation of the [JavaScript30](https://javascript30.com/) challenge by Wes Bos — 30 days of vanilla JS coding, no frameworks, no compilers, no libraries.
+
+📆 You can gain **real-world practical skills** by completing one mini project every day.
+
+## 🛠 Tech Stack
+
+- ✅ HTML
+- ✅ CSS
+- ✅ Vanilla JavaScript
+
+No npm, no build tools — just pure frontend joy.
+
+## 🧠 Purpose
+
+This challenge helps to:
+
+- Sharpen JavaScript fundamentals
+- Learn DOM manipulation deeply
+- Practice writing clean, framework-free code
 
 ---
 
-## 📂 Loyihalar ro‘yxati
+## 📂 Projects list
 
 | #  | Loyiha nomi                    | Demo |
 |----|------------------------        |--------|
@@ -24,4 +42,11 @@ Bu repozitoriyada [Wes Bos](https://javascript30.com/) tomonidan yaratilgan **Ja
 | ...| ...                            | ...    |
 | ...| ...                            | ...    |
 
-> Har bir loyiha alohida papkada joylashgan. Fayllarni lokalda browser orqali ochib yoki Netlify orqali ko‘rish mumkin.
+## ▶️ How to Run
+
+Simply clone the repo and open any `index.html` file in your browser:
+
+```bash
+git clone https://github.com/azykdeveloper/challenge-javascript30.git
+cd challenge-javascript30/day01
+open index.html
