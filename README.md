@@ -40,6 +40,7 @@ This challenge helps to:
 | 10 | Hold shift and check checkbox  | [Live](https://azykxyz.github.io/challenge-javascript30/10-hold-shift-and-check-checkboxes/) |
 | 11 | Cutom video player             | [Live](https://azykxyz.github.io/challenge-javascript30/11-custom-video-player/) |
 | 12 | Key squence detection          | [Live](https://azykxyz.github.io/challenge-javascript30/12-key-sequence-detection/) |
+| 13 | Slide in on Scroll             | [Live](https://azykxyz.github.io/challenge-javascript30/13-slide-in-on-scroll/) |
 | ...| ...                            | ...    |
 | ...| ...                            | ...    |
 
